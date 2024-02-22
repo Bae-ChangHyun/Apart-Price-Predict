@@ -109,7 +109,7 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
 ## 5. Result
 
 ### 5-1 Leader Board
-- Rank:2nd
+- Final Rank:2nd
 - Public Score:14760.6767(2nd)
 - Private Score: 10764.6959(2nd)
 
