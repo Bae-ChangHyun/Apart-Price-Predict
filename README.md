@@ -19,7 +19,10 @@
 ## 1. Competetion Info
 
 주최: Upstage + Fastcampus on Aistages <br>
-![aistages](image/aistage.png)
+
+| <img src="image/fastcampus.png" alt="Fastcampus" width="200"/> | <img src="image/aistage.png" alt="aistages" width="200"/> |
+|------------------------------------------------------------------|------------------------------------------------------------------|
+| Fastcampus                                                       | Upstage                                                        |
 
 ### 1-1. Team
 
@@ -116,7 +119,7 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
 ### Reference
 - [실거래가: 국토교통부](https://www.kiep.go.kr/menu.es?mid=a10602010000)
 - [서울시 공공주택 아파트정보: 서울열린데이터광장](https://data.seoul.go.kr/dataList/OA-15818/S/1/datasetView.do)
-- [서울시 가구총소득: 서울열린데이터광장]: 서울열린데이터광장(https://data.seoul.go.kr/dataList/DT201013B022/S/2/datasetView.do)
+- [서울시 가구총소득: 서울열린데이터광장]: (https://data.seoul.go.kr/dataList/DT201013B022/S/2/datasetView.do)
 - [실거래지수: KOSIS국가통계포털](https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S1)
 - [서울시 학교정보: 서울열린데이터광장](https://data.seoul.go.kr/dataList/OA-20502/S/1/datasetView.do)
 - [아파트 정보: K-apt 공동주택관리정보시스템](https://www.k-apt.go.kr/board/boardList.do?board_type=03)
