@@ -128,3 +128,11 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
 - [서울시 지하철:Upstage](https://www.upstage.ai/)
 - [서울시 버스:Upstage](https://www.upstage.ai/)
 - [train,test data:Upstage](https://www.upstage.ai/)
+
+## 🛠 Tech Stack 🛠
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas)]()
+[![Static Badge](https://img.shields.io/badge/Scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/Numpy-%23F93821?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+
