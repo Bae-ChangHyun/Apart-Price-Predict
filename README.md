@@ -1,4 +1,4 @@
-# House Price Prediction | 아파트 실거래가 예측
+# Apart Price Prediction | 아파트 실거래가 예측
 ![alt text](image/logo.png)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBae-ChangHyun%2Fapart_price_predict&count_bg=%23003BE7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
