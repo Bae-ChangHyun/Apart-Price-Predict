@@ -84,7 +84,6 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
 - target 로그 변환
 
 ## 4. Modeling
-
 ### 4-1. Model
 `XGBoost`,`CatBoost`,`LGBM`, `RandomForest` 와 `Optuna`를 이용한 하이퍼파라미터 튜닝.
 
