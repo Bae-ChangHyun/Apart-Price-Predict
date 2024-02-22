@@ -18,7 +18,7 @@
 
 ## 1. Competetion Info
 
-주최: Upstage + Fastcampus on Aistages
+주최: Upstage + Fastcampus on Aistages <br>
 ![aistages](image/aistage.png)
 
 ### 1-1. Team
@@ -88,9 +88,10 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
 ### 4-1. Model
 `XGBoost`,`CatBoost`,`LGBM`, `RandomForest` 와 `Optuna`를 이용한 하이퍼파라미터 튜닝.
 
-| ![alt text](image/xgboost.png) | ![catboost](image/catboost.png) | ![LGBM](image/LGBM.png) | ![rf](image/randomforest.png) |
+| <img src="image/xgboost.png" alt="XGBoost" width="300"> | <img src="image/catboost.png" alt="CatBoost" width="300"> | <img src="image/LGBM.png" alt="LightGBM" width="300"> | <img src="image/randomforest.png" alt="Random Forest" width="300"> |
 |:---:|:---:|:---:|:---:|
 | XGBoost | CatBoost | LightGBM | Random Forest |
+
 
 ### 4-2. Validation
 - test와 인접 기간 -> test와 인접한 최근 2023.01~2023.06을 validation set 구성
