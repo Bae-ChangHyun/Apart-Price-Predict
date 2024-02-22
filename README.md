@@ -18,7 +18,8 @@
 
 ## 1. Competetion Info
 
-주최: Upstage + Fastcampus on [Aistages](https://stages.ai/)
+주최: Upstage + Fastcampus on Aistages
+![aistages](image/aistage.png)
 
 ### 1-1. Team
 
@@ -86,7 +87,7 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
 
 ### 4-1. Model
 `XGBoost`,`CatBoost`,`LGBM`, `RandomForest` 와 `Optuna`를 이용한 하이퍼파라미터 튜닝.
-|---------|---------|---------|---------|---------|
+
 | ![alt text](image/xgboost.png) | ![catboost](image/catboost.png) | ![LGBM](image/LGBM.png) | ![rf](image/randomforest.png) | ![optuna](image/optuna.png) |
 
 ### 4-2. Validation
