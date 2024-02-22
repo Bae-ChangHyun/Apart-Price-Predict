@@ -111,10 +111,11 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
 
 ## 5. Result
 
-### 5-1 Leader Board
+### 5-1. Leader Board
 - Final Rank:2nd
 - Public Score:14760.6767(2nd)
 - Private Score: 10764.6959(2nd)
+![alt text](score.png)
 
 ### Reference
 - [실거래가: 국토교통부](https://www.kiep.go.kr/menu.es?mid=a10602010000)
